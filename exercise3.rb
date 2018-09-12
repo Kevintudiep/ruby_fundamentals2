@@ -1,0 +1,5 @@
+def is_even?(number)
+  return number % 2 == 0
+end
+
+puts is_even?(2)
